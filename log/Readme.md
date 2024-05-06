@@ -48,3 +48,12 @@ Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
 
  Use gain-offset =  -0.57 keV
 Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+
+
+
+# Work to do 
+
+Extract power spectra and energy spectra for each orbit.
+
+# problem
+Unable to extract 
