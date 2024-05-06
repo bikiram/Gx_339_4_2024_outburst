@@ -1,5 +1,5 @@
-# 6th May
-Output of the second laxpcl1 run
+## 6th May
+# Output of the second laxpcl1 run
 
       
       664213   189063010.77711001               20          15
@@ -32,3 +32,29 @@ Output of the second laxpcl1 run
            0
   1.00000E+00  3.76197E-01  9.99061E-01  8.12691E-02
   *** Angular offset =   1.07degree at T =  3.701234080184E+08
+
+
+  # OUTPUT OF BACKSHIFT V3
+
+  biki@manoneeta-Precision-5820-Tower:/media/manoneeta/disk2/biki/project1/research_work/Project1/envforlaxpc/laxpcsoftv3.4.4_21June2023$ ./backshiftv3
+ type lxp,anode,idi [1 0 0]
+2 0 0
+ Type time-bin, channel range for light curve, nul [1 0 1023 -1]
+/
+          79        1434
+          23           4          69
+ type .pha file name [ lxp2level2back.pha ]
+lxp2level2back.pha
+          57          58        2167        2189
+ background sep21 chosen
+ It may be better to use  seq21
+ Source-ch= 215.9  back-ch= 216.0  shift=  -0.1
+          53  0.10659790039062500     
+ jun21  may be closer in gain  del=  0.10659790039062500     
+ Mean count rate:   207.0   207.3  ratio=   0.999
+           4         139  -1.1898040771484374E-003
+ change in count rate= -0.12326850844755199     
+ Response-ch= 224.1  shift=  -8.2
+ use the response file  lx20cshm08v1.0.rmf            
+ Use gain-offset =  -0.57 keV
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
