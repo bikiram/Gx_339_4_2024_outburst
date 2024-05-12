@@ -31,6 +31,14 @@ Time Lag evolution for different peaked frequencies
 ![Alt.text](./merged/time_lag_evolution.png)
 
 
+# Next I have segmentted the light curve into six segment combinign two consecutive orbit files.
+
+The evolution of lorentzian frequencies 
+
+![Alt.text](./power_spectra/frequency_evolution.png)
+
+
+
 Coherence evolution for different peaked frequencies
 
 ![Alt.text](./merged/Coherence_evolution.png)
