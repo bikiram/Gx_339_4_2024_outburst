@@ -15,17 +15,22 @@ LAXPC power spectra
 
 ![Alt.text](./merged/ps_full.png)
 
+Zoomed power spectra
 
-RMS evolution
+![Alt.text](./merged/zoomed_ps.png)
+
+
+
+RMS evolution at different peaked frequencies
 
 ![Alt.text](./merged/rms_evolution.png)
 
 
-Time LAg evolution
+Time Lag evolution for different peaked frequencies
 
 ![Alt.text](./merged/time_lag_evolution.png)
 
 
-Coherence evolution 
+Coherence evolution for different peaked frequencies
 
 ![Alt.text](./merged/Coherence_evolution.png)
