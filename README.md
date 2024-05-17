@@ -12,6 +12,7 @@ LAXPC light curve
 ![Alt.text](./merged/lc_gx_339.png)
 
 Evolution of the QPO in power spectra
+![Alt.text](./merged/qpo_evolution_realtime.png)
 
 ![Alt.text](./merged/qpo_evolution.png)
 
