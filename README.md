@@ -13,6 +13,7 @@ LAXPC light curve
 
 Evolution of the QPO in power spectra
 ![Alt.text](./merged/qpo_evolution_realtime.png)
+WITHOUT GTI GAPS
 
 ![Alt.text](./merged/qpo_evolution.png)
 
